@@ -6,7 +6,7 @@ categories:
   - Japan
   - Culture
   - Book
-image: https://2.bp.blogspot.com/-bOyT_Jihwf0/WqlysA6-lgI/AAAAAAAADVc/XGWc9wyQ8JE3__p_5aW6kauU2cvMw0twQCLcBGAs/s1600/Book.001.jpg
+image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Book-cover.jpg
 author_staff_member: Binderya
 comments: true
 ---
@@ -14,26 +14,26 @@ comments: true
 
 ## Hokkaido Highway Blues,Will Ferguson (1998)
 
-![picture_01](https://1.bp.blogspot.com/-LLS2bdj1aWQ/WqlvTBE3tVI/AAAAAAAADVE/xY-JrTM_VwU2VzUKVku-l1YW5jxNQ_htwCLcBGAs/s1600/Book.001.jpg)
+![Hokkaido Highway Blues,Will Ferguson](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Hokkaido-Highway-Blues.jpg)
 
 Өдгөө 20 насыг зооглож буй уг зохиол нь Япон орны тухай бөгөөд энэхүү орныг бүрдүүлж буй ард түмний өдөр тутмын амьдралд тулгуурлан бичигджээ. Уг номын зохиолч Вилл Фергусон нь Японд багшилж байх үедээ сакура цэцэглэхтэй зэрэгцэн Япон орны урд хэсгээс хойд хэсэг хүртэл аялж, зарим хүмүүсийн зөвхөн мөрөөдөж л чадах олон байгалийн сайхныг дүрслэн бичжээ.
 ## I Am a Cat, Natsume Sōseki (1905-1906)
 
-![picture_02](https://4.bp.blogspot.com/-KzGi50PEc4s/WqlvTCCLSNI/AAAAAAAADU8/u7BQpCetFMI2-s3T6DMxtURvxaMoBaZRgCLcBGAs/s1600/Book.002.jpg)
+![I Am a Cat](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/I-Am-a-Cat.jpg)
 
 Монгол хэлнээ "Муур миний өчил" хэмээн орчуулагдсан номын зохиолч Нацумэ Соосэкиг мэдэхгүй хүн байхгүй биз ээ. Уг номын гол дүр нь эргэн тойрон дахь хүмүүсээ ажиглан өдөр хоногийг өнгөрөөж буй хэн ч хайрладаггүй, хэн ч авахыг хүсдэггүй муур бөгөөд уг ном нь таньд Мэйжи үеийн соёлыг амьдаар нь мэдрэх боломжийг олгоно.
 ## Where the Dead Pause, and the Japanese Say Goodbye: A Journey, Marie Mutsuki Mockett (2015) 
 
-![picture_03](https://1.bp.blogspot.com/-xit8ZZLQRjA/WqlvTB7GSCI/AAAAAAAADVA/Z3AIAM5SRlI3gnM8Ov2OS3YMsaFa_onGACLcBGAs/s1600/Book.003.jpg)
+![Where the Dead Pause, and the Japanese Say Goodbye: A Journey](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Where-the-Dead-Pause-and-the-Japanese-Say-Goodbye.jpg)
 
 Эл уй гашуу дүүрэн номын зохиолч Мари Муцуки Моккет нь 2011 онд болсон газар хөдлөлт болон цунамигийн дараа Япон дахь гэр бүлтэйгээ холбоо барихаар Америкаас Япон явж байх үедээ бичсэн ном юм. Харамсалтай нь түүний гэр бүл Фүкүшимагийн цөмийн станцаас ердөө 25хан милл зайд амьдардаг байжээ. Тухайн явдлын хажуугаар Америк дахь аав болон  өвөөгөө алдсан түүний уй гашуу болон сэтгэл хөдлөлийг уг ном нь тод томруунаар тусгаж өгснөөрөө алдартай гэнэ.
 ## A Geek in Japan, Hector Garcia (2010)
 
-![picture_04](https://4.bp.blogspot.com/-MJOsfit_Q9g/WqlvUR6Ck5I/AAAAAAAADVI/lWCwRP0aNJgu8ah6zg6YdwpTdQeAQZk-gCLcBGAs/s1600/Book.004.jpg)
+![A Geek in Japan](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/A-Geek-in-Japan.jpg)
 
  Японы түүх болон соёлын тухай олон ном байх хэдий ч энэ ном нь Отаку соёлыг бүр цэг ч үлдээлгүй гайхалтай танилцуулснаараа онцлог юм. Хэрвээ та орчин үеийн жинхэнэ Отаку нарын тухай илүү дэлгэрэнгүй мэдэхийг хүсвэл энэ номыг сонгоорой.
 ## The Tale of Genji, Murasaki Shikibu (1008)
 
-![picture_05](https://4.bp.blogspot.com/-OXPJ1fnCiHU/WqlvUhqcmOI/AAAAAAAADVM/AiSFnL95bW0by592P202O1FDlqPUy3T0gCLcBGAs/s1600/Book.005.jpg)
+![The Tale of Genji](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/The-Tale-of-Genji.jpg)
 
 Хэрвээ уншигч та Япон орны сонгодог урлагт дурлагч бол ямар ч ном үүнээс илүү сонгодог байна гэж үгүй! Мурасаки Шикибу хэмээх эмэгтэй зохиолчийн уг ном нь 11р зууны үеийн Японы толгойлогчдийн нэгнийх нь хүүгийн амьдралыг уг үеийн соёлтой хамт уран яруугаар дүрсэлж чаджээ. Танд таалагдана гэдэгт итгэлтэй байна.

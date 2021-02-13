@@ -5,7 +5,7 @@ description:  Орчин цагт задгай хоолны газрууд ту�
 categories:
   - Japan
   - Food
-image: https://1.bp.blogspot.com/-rUPyAhPaqt0/WrlJfHolGdI/AAAAAAAADa4/pVZz13uGGdYT8LmCOAmUqGtCJSpckZpDQCLcBGAs/s1600/cover%2Bv2.jpg
+image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Street-food.jpg
 author_staff_member: Binderya
 comments: true
 ---
@@ -14,42 +14,41 @@ comments: true
 ## Икаяки 
 Икаяки буюу шарсан толгой хөлт зөөлөн биетнийг чихэрлэг соё соус болон төрөл бүрийн амтлагчаар амтлан шорлог хийж зардаг ажээ. Ихэвчлэн фестиваль, баяр болж байгаа газар зарагддаг бөгөөд энгийн үед Токиогийн загасны дэлгүүрээс олж болох гэнэ.
 
-![Ikayaki](https://4.bp.blogspot.com/-4HK6f9ZhGQY/WrlIKR8eRFI/AAAAAAAADac/wpnaVksnLU0rGSLg5UYKRWNAoObLyKnwgCLcBGAs/s1600/ikayaki%2Bv2.jpg)
+![Ikayaki](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Ikayaki.jpg)
 
 ##  Таияки 
 Таиякиг хотын аль ч дүүргээс авж болохуйц өргөн зарагддаг. Уламжлалт таияки нь чанасан улаан шош буюу анкогоор дүүргэсэн загасны хэлбэртэй бялуу байдаг байсан бол орчин үед төрөл бүрийн бяслагаас эхлээд кремээр хүртэл таияакиг дүүргэдэг болжээ.
 
-![Taiyaki](https://1.bp.blogspot.com/-zolWeL_T9l8/WrlCa5sFoKI/AAAAAAAADZY/Q9uWbwO4klkQuBSmF7Qzmtxya20B68FdQCLcBGAs/s1600/tokyo-taiyaki6.jpg)
+![Taiyaki](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Taiyaki.jpg)
 
 ##  Данго
 Будааны гурилаар хийж шарсан хоол бөгөөд Мочитой төстэй. Дангоны онцлог нь газар газрын данго өөр өөр амттай байдаг аж. Эдгээр нь ихэвчлэн 24 цагийн дэлгүүр /конбини/-д зарагддаг боловч гадуур хувийн дангонууд цөөнгүй байх аж.
 
-![Dango](https://1.bp.blogspot.com/-4bjJY1WpT_U/WrlCZEmxBUI/AAAAAAAADZE/Mw7tshDYP48gLhYJHek-dpIu5EulnbBLQCLcBGAs/s1600/dango.jpg)
+![Dango](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Dango.jpg)
 
 ##  Такояки
 Такояки нь онцгойлон бэлдсэн хайруулын тавганд бөөрөнхийлөн шарсан наймаалж юм. Ихэвчлэн фестивалийн үеэр зарагдах ч жижигхэн мухлагууд жуулчдад зориулан ажилладаг байна.
 
-![Takoyaki](https://4.bp.blogspot.com/-goPBF_jDqMA/WrlCaxKjupI/AAAAAAAADZU/U16IBgkidkIdU4FLKdieG5c06V8d8saVQCLcBGAs/s1600/takoyaki.jpg)
+![Takoyaki](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Takoyaki.jpg)
 
 ##  Крепе
 Олон янзын өнгөтэй, эгдүүтэй крепүүдийг хотын хаанаа л бол хаанаас л олж болох бөгөөд бүр Харажүкү бүсийн нэрийн хуудас болоод амжжээ. Олон төрлийн сонголтуудаас дор хаяж заавал нэгийг амтлаад үзээрэй.
 
-![Krepe](https://3.bp.blogspot.com/-ajwEyWjLy4k/WrlH_sJTSaI/AAAAAAAADaY/A9jaH-DvaaEJ4pgJ5AjRIncAj0WUMcl2wCLcBGAs/s1600/crepe%2Bv2.jpg)
+![Krepe](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Krepe.jpg)
 
 ##  Окономияки
  Энэ нь ихэвчлэн мах, цөцгийн тос, ногоо дээр нь тавьж, маш олон соусаар амталсан нэг төрлийн шарвин юм. Гадаа гудамжнаас эхлээд ресторануудын менюд хүртэл багтдаг окономияки нь мөн л олон төрөл байдаг ажээ.
 
-![Окономияки](https://3.bp.blogspot.com/-f6B3JQIGWa4/WrlIZGRsPUI/AAAAAAAADak/O5u3fErV1TQ8lrx_uLeaJT8Y0Nn6f20gACLcBGAs/s1600/%25D0%259E%25D0%25BA%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25BC%25D0%25B8%25D1%258F%25D0%25B0%25D0%25BA%25D0%25B8%2Bv2.jpg)
+![Окономияки](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Окономияки.jpg)
 
 ##  Касутэрра ( Castella) 
 Хөвсгөр бяслагтай бялуунд дуртай хүмүүс анхаарагтун! Танд зөвхөн Японд л амталж болох, бүр 16-р зуунаас дамжин ирсэн нууц жорт Касутэрраг танилцуулж байна ! Төрөл бүрийн хувийн бэйкирид байх Касутэрра нь гайхмаар хөвсгөр гэдгээрээ алдартай ажээ. Заавал туршиж үзэх зүйлсийн жагсаалтад үүнийг ч бас нэмээрэй.
 
-![Castella](https://2.bp.blogspot.com/-itc6d4qTEps/WrlHzB3akoI/AAAAAAAADaU/-kJqYhAkrLYpWzmuBAURQ46fE7nMo1o7ACLcBGAs/s1600/Castella%2Bv2.jpg)
+![Castella](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Castella.jpg)
 
 ##  Якитори
  Шувууны зүрх, элэг бөөрнөөс эхлээд хүзүү хүртэл юуг нь ч хаягдал болгодоггүй соёлоо хүндэлдэг нэгэн төрлийн шорлог ажээ. Голчлон тахианы махаар хийх ба ил үнсэн дээр болгодгоороо онцлог аж.
 
-![Yakitori](https://2.bp.blogspot.com/--AmOiyQIC1U/WrlCbosORFI/AAAAAAAADZc/QLYxbZnbwtoHobJ91zV2rFC69nqPrVQbQCLcBGAs/s1600/yakitori.jpg)
+![Yakitori](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Yakitori.jpg)
 
  Дээрх хоолнуудын заримыг гэртээ ч хийж болох учраас жорыг нь туршаад үзээрэй!
-
