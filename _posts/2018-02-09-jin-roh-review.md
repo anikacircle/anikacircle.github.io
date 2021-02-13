@@ -11,23 +11,23 @@ comments: true
 ---
 Дэлхийн 2-р дайны ялагдлаас хойш арав гаруй жилийн дараа Япон улсад эмх замбараагүй байдал бослого хѳдѳлгѳѳн гарах болов. Дэлхийн дахиныг нэгтгэх, дайнд ялагдал хүлээсэн улс орнуудыг дахин хѳгжүүлэх бодлогын хүрээнд улс орны удирдагчид эдийн засгийн ѳсѳлтийг дэмжих бодлого баримтлав.
 
-![Boslogo](https://2.bp.blogspot.com/-Tltx6x1iD4Y/Wn3PBA2O3WI/AAAAAAAADEU/vvF6RFfqJasavZMQIYOxH2rn40seENJTwCLcBGAs/s1600/vlcsnap-2018-02-10-00h31m58s492.png)
+![protest](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/jin-roh-protest.png)
 
 Дээрх бодлого олон талаар амжилт үзүүлсэн ч нийгэмд ноцтой үймээн самуун үүсэх нѳхцѳл тѳдий чинээ бий болгож байв. Ажилгүйдэл нэмэгдэж, хот суурин газар руу чиглэсэн шилжилт хѳдѳлгѳѳн хурдастайгаар ѳсч, хотын дийлэнх хэсэг ядуусын хороолол болж гэмт хэрэг болоод хүчирхийлэл эрс нэмэгдсэн байна. Ард иргэдийн зэвсэгт бослого ѳдѳр ирэх тусам хүчирхэгжиж засгийн газрын бодлогын эсрэг тэмцлээ хурцаар илэрхийлж байв.
 
-![Police_captial](https://3.bp.blogspot.com/-xE9mrfbfRrE/Wn3PBCqp56I/AAAAAAAADEQ/tNqzPiuBgaYxQvsWkVy_k8dDEl-r6SBvgCLcBGAs/s1600/vlcsnap-2018-02-10-00h31m20s221.png)
+![police_captial](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/police_captial.png)
 
 Засгийн газарт үүний эсрэг авах арга хэмжээ тун бага байлаа. Нийгмийн энх тайванг сахиулахын тулд Батлан хамгаалах хүчинг ашиглахаас татгалзаж мѳн Дотоодын цэргийг Цагдаагийн байгууллагатай нэгтгэхээс татгалзах шийдвэр гаргав. Тус үйл ажиллагааны хүрээнд Үндэсний аюулгүй байдлын хорооны шууд удирдлаган дор шинээр цэрэгжүүлсэн салааг байгуулав. Энэхүү шийдвэрийн үр дүнд Нийслэлийн цагдаагийн газар байгуулагдав. Бүрэн хуяглагдсан техник, салаа, Нийслэлийн цагдаагийн газар өөрийн эрх мэдлээ өргөжүүлж дэг журмыг сахин хамгаална гэдгээ хараат бусаар мэдэгдэв.
 
-![indep_police_capital](https://4.bp.blogspot.com/-0eD9SyB6ipE/Wn3PBF6cILI/AAAAAAAADEY/UstCATR24ssldJozxa-jps3wvZE_Hei0QCLcBGAs/s1600/vlcsnap-2018-02-10-00h31m43s015.png)
+![indep_police_capital](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/indep_police_capital.png)
 
 Мѳн хууль эрх зүйн хязгаарлалт, хориг арга хэмжээнүүд авч эхэлэхэд “засгийн газрын эсрэг” бүлгүүд дотроосоо зѳрчилдѳн хуваагдан бутарч эхэлсэн байна. Тэд "The Sect" нэртэйгээр дахин нэгдэж нийгэм дэх нѳхцѳл байдлыг эрс ѳѳрчлѳв.
 
-![Boslogo](https://4.bp.blogspot.com/-WAPz9hNHb4Y/Wn3RM2-hB9I/AAAAAAAADE8/6DZpBmeR4B4xAz2geqyq3dq5W4KZU7I4gCLcBGAs/s1600/vlcsnap-2018-02-10-00h49m11s910.png)
+![protest-2](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/protest-2.png)
 
 The Sect болон Нийслэлийн цагдаагийн газар хоорондын мѳргѳлдѳѳн хотын гудамжийг дайны талбар мэт болгон ѳѳрчилж байв. Энэхүү үйл явдал нь олон нийтийн үзэл бодлыг ѳдѳѳсѳн үйл явдал болж The Sect нь ард иргэдээс эдийн засгийн дэмжлэг болон итгэлийг хүлээж эхэлсэн юм.
 
-![Керберос](https://3.bp.blogspot.com/-r9gZ0nHpzHU/Wn3PDZ97H7I/AAAAAAAADEg/vJH0iG251YsjTwe8hiSivBKcSkcSY8jpACLcBGAs/s1600/vlcsnap-2018-02-10-00h34m25s341.png)
+![Kerberos](https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Kerberos.png)
 
 Керберос гэгддэг тусгай албаны офицерууд хуяг дуулга, хүнд зэвсэг ашиглан аюулгүй байдлыг хамгаалж ширүүн тулаан ѳрнүүлж эхлэв. Тэдний түүхийн явцад дэг журмыг сахиулах, шинэ болон эцсийн зорилгодоо хүрэг цаг ирэх болов уу...
 
