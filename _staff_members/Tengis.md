@@ -1,7 +1,7 @@
 ---
 name: Тэнгис
 position: Гишүүн
-image_path: https://1.bp.blogspot.com/-2ofYzcsHnX4/WmWvtfyflPI/AAAAAAABMsQ/-MfEhnIelBQFwzcH4qhwy7mI7k873UY3wCLcBGAs/s1600/tengis.jpg
+image_path: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/anika-member-tengis.jpg
 twitter_username: 
 blurb:
 ---

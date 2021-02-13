@@ -1,7 +1,7 @@
 ---
 name: Hotaru
 position: Гишүүн
-image_path: https://1.bp.blogspot.com/-ZCkgB_8H_64/YCEqZkx2uuI/AAAAAAAAG6Q/vqOQROBOVQkc0YGKE-lgIYKPNavXtn9FACLcBGAsYHQ/s320/Hotaru.jpg
+image_path: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/anika-member-hotaru.jpg
 facebook_username:
 blurb: Hotaru
 ---
