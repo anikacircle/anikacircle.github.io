@@ -5,7 +5,7 @@ description: Jin-roh review
 categories:
   - anime
   - review
-image: https://1.bp.blogspot.com/-RrX63TDGrF0/Wn3PCn1wbmI/AAAAAAAADEc/DAcVIJdtObsVAQo3dSc98PORdmIhX6RJACLcBGAs/s1600/vlcsnap-2018-02-10-00h32m11s673.png
+image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/jin-roh-anika.png
 author_staff_member: Khoschuluu
 comments: true
 ---
