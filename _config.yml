@@ -2,7 +2,7 @@
 # Site
 
 title: Anika Circle
-url: "anikacircle.github.io"
+url: "https://anikacircle.github.io/"
 baseurl:
 google_analytics_key: UA-115488345-1
 google_maps_javascript_api_key: AIzaSyBO7-e_9suEnodIcdu8EBA5AJqj_tgqOHI
@@ -15,6 +15,10 @@ author:
   name:
   email:
   twitter: # twitter username without the @ symbol
+social:
+  name: Anika Circle
+  links:
+    - https://anikacircle.github.io/
 
 # -----
 # Build
