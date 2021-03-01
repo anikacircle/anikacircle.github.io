@@ -6,7 +6,7 @@ categories:
   - Japan
   - Anime
   - Manga
-image: https://cdn-japantimes.com/wp-content/uploads/2015/03/n-catisland-a-20150306.jpg
+image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/cat-island-cover.jpg
 author_staff_member: Suvd
 comments: true
 ---
