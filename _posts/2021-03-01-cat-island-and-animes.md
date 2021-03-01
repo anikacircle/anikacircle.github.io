@@ -88,4 +88,4 @@ Maine Coon Hiyori хэмээх том муурны тухай түүх. Сэвс
 ![Tae from Neko no Machi no Ko](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373013988l/18162824.jpg)
 
 
-#### Хянсан: Binderya
+#### Хянсан: Биндэръяа
