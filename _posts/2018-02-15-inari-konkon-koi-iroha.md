@@ -7,6 +7,7 @@ categories:
   - review
 image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/inari.jpg
 author_staff_member: Binderya
+author_filter: Биндэръяа
 comments: true
 ---
 Энэхүү анимэ нь Инари Фүшими хэмээх эв дүйгүй боловч сайхан сэтгэлтэй охины тухай өгүүлнэ. Тэрбээр багаасаа нэгэн хийдийн дэргэд өссөн ба Инаригийн сайхан сэтгэлийг анзаарсан сүмийн бурхан түүнд өөрийнхөө бусад хүний дүрд хувирах чадварыг өгдөг.

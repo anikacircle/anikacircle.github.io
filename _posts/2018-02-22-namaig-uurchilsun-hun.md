@@ -7,6 +7,7 @@ categories:
   - Culture
 image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/namaig-uurchulson-hun.jpg
 author_staff_member: Hulan
+author_filter: Хулан
 comments: true
 ---
 Сайн байна уу? Намайг Хулан гэдэг, би СоЭДС-н Япон хэлний орчуулагчийн 2-р ангид суралцдаг. Япон улсын элчин сайдын яамны JENESYS2016 хөтөлбөрт "Намайг өөрчилсөн хүн" сэдэвт уран илтгэлийн тэмцээнд байр эзлэн Япон улс руу явах боломж гарч ирсэн юм.

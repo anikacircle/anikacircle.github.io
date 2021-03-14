@@ -7,6 +7,7 @@ categories:
   - Food
 image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Street-food.jpg
 author_staff_member: Binderya
+author_filter: Биндэръяа
 comments: true
 ---
 Орчин цагт задгай хоолны газрууд тухайн улсынхаа дээд зэрэглэлийн ресторан шиг л соёлын чухал хэсэг нь болжээ. Ийм ч учраас хэрвээ та Токиод очихоор төлөвлөж буй бол өөр хаанаас ч амтлах боломжгүй дараах хоолнуудыг бүү алгасаарай. 

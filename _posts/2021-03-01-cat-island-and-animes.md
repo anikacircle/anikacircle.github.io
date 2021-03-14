@@ -8,6 +8,7 @@ categories:
   - Manga
 image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/cat-island-cover.jpg
 author_staff_member: Suvd
+author_filter: Сувд
 comments: true
 ---
 

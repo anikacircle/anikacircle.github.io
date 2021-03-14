@@ -42,6 +42,8 @@ collections:
   staff_members:
     _hide_content: true
     _icon: account_circle
+  authors:
+    output: true
 
 paginate: 10
 paginate_path: "/blog/:num/"
@@ -50,6 +52,13 @@ jekyll-archives:
   enabled: ['categories']
 
 defaults:
+  - 
+    scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
+      permalink: /authors/:slug
   -
     scope:
       path: ""

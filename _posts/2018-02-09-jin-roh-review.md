@@ -7,6 +7,8 @@ categories:
   - review
 image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/jin-roh-anika.png
 author_staff_member: Khoschuluu
+author_filter: Хосчулуу
+
 comments: true
 ---
 Дэлхийн 2-р дайны ялагдлаас хойш арав гаруй жилийн дараа Япон улсад эмх замбараагүй байдал бослого хѳдѳлгѳѳн гарах болов. Дэлхийн дахиныг нэгтгэх, дайнд ялагдал хүлээсэн улс орнуудыг дахин хѳгжүүлэх бодлогын хүрээнд улс орны удирдагчид эдийн засгийн ѳсѳлтийг дэмжих бодлого баримтлав.

@@ -7,6 +7,7 @@ categories:
   - Culture
 image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/JF-cover.jpg
 author_staff_member: khos-erdene
+author_filter: Хос-Эрдэнэ
 comments: true
 ---
 Сайн байн уу, намайг Бямбажавийн Хос-эрдэнэ гэдэг. Би 2013 оноос эхлэн Монгол Японы төвийн Япон хэлний сургалтанд цогц сургалт 2-5 мөн ханзны сургалт 2-3 сургалтанд хамрагдаж сурлагын дүнгээр шалгарч 2016 оны 7-р сарын 13-аас 24  хооронд Япон сангийн тэтгэлгээр 14 хоногийн дадлага аялалд хамрагдаад ирсэн билээ. 

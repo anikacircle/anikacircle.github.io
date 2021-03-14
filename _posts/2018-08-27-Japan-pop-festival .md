@@ -7,6 +7,7 @@ categories:
   - Culture
 image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/Japan-Pop-Fest-2018-cover.jpg
 author_staff_member: Khoschuluu
+author_filter: Хосчулуу
 comments: true
 ---
 2018 оны 8-р сарын 18 өдөр Үндэсний соёл амралтын хүрээлэнд зохион байгуулагдсан Япон поп соёлын өдөрлөг 2018 амжилттай болж өнгөрлөө. Энэхүү арга хэмжээг Япон улсаас Монгол улсад суугаа ЭСЯ, Японы соёлыг сонирхогчдын холбоо хамтран зохион байгуулсан ба уг арга хэмжээнд Аника Circle нь хоёр дахь хэвлэл болох Psycho-Pass анимэгийн доүжиншиг ирсэн хүүхэд залуучууд сонирхуулсан билээ.

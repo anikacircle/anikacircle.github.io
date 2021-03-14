@@ -7,6 +7,7 @@ categories:
   - Language
 image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/non-transalted-word.jpg
 author_staff_member: Binderya
+author_filter: Биндэръяа
 comments: true
 ---
 Коморэби - Энэ үг нь нарны туяа моддын навчин завсраар тусан, хамтдаа нэгэн төрлийн бүжгийг үүсгэж байгааг төлөөлнө. Хэдийгээр Япончууд байгалийг хэт тахин шүтдэггүй ч хэчнээн их хүндэлдгийг үүнээс харж болно.

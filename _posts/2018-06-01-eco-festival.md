@@ -6,7 +6,8 @@ categories:
   - Festival
   - Culture
 image: https://raw.githubusercontent.com/anikacircle/anikacircle.github.io/main/.images/eco-fest-cover.JPG
-author_staff_member:
+author_staff_member: False
+author_filter: False
 comments: true
 ---
 Цэнгэг усны нөөц, байгаль хамгаалах төвөөс жил бүр уламжлал болгон зохион байгуулдаг Япон улсын соёл, урлагийг сурталчлан таниулах зорилго бүхий “Эко баяр"-ыг 4 дэх жилдээ Япон-Монголын төв, Монгол Коосэн технологийн коллежтой хамтран зохион байгууллаа.
