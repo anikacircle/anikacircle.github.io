@@ -7,8 +7,8 @@ before_install: gem update bundler
 install:
   - bundle install
 
-before_install:
-- bash chmod +x ./setup.sh # will give proper permission
+before_script:
+ - chmod +x ./setup
 
 script:
   - "./setup.sh"
