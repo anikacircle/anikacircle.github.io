@@ -39,11 +39,11 @@ exclude:
   - Gemfile.lock
 
 collections:
+  authors:
+    output: true
   staff_members:
     _hide_content: true
     _icon: account_circle
-  authors:
-    output: true
 
 paginate: 10
 paginate_path: "/blog/:num/"
