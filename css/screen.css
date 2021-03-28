@@ -446,6 +446,11 @@ blockquote:before {
 .pagination {
   padding: 30px; }
 
+.post-min {
+  float: right; }
+  .post-min a {
+    text-decoration: none; }
+
 .button a, input[type=submit] {
   color: #6ba1f3;
   text-decoration: none;
