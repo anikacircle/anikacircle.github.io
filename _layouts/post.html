@@ -6,6 +6,9 @@ layout: page
 	<div class="blog-post text-container">
 		<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
 		{% include post-title.html post=page %}
+		<span class="post-min">
+			<a> {% include post-readingtime.erb %}</a>
+		</span>
 
 		<div class="post-content">
 			{{ content }}

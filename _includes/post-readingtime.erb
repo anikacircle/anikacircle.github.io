@@ -1,0 +1,12 @@
+{% capture words %}
+  {{ page.content | number_of_words | minus: 150 }}
+{% endcapture %}
+{% unless words contains "-" %}
+ {% assign minutes = words | plus: 150 | divided_by: 150 %}
+    {{ minutes }}
+ {% if minutes == 1 %}
+    {{ " МИН" }}
+ {% else %}
+    {{ " МИН" }}
+ {% endif %}
+{% endunless %}
