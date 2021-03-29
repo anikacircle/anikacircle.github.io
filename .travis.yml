@@ -15,6 +15,6 @@ script:
 
 branches:
   only:
-  - master
+  - main
 
 sudo: false
