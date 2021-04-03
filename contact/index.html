@@ -76,18 +76,16 @@
 
 <section class="pad">
 	<div class="text-container contact-box">
-		<form action="https://formspree.io/circleanika@gmail.com" method="post" class="contact-form">
-			<input type="hidden" name="_to" value="circleanika@gmail.com">
-			<input type="text" name="_gotcha" style="display: none;">
-
-			<label for="name">Таны нэр</label>
-			<input type="text" name="name" id="name" placeholder="Энд нэрээ бичнэ үү...">
+		<script type="text/javascript">var submitted=false;</script>
+		<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='/contact-success/';}"></iframe>
+		<form action="https://formspree.io/f/mbjqjlwo" method="post" class="contact-form" target="hidden_iframe"
+	    onsubmit="submitted=true;">
 
 			<label for="email">Мэйл хаяг</label>
-			<input type="email" name="email" id="email" placeholder="Энд майл хаягаа бичнэ үү..." required>
+			<input type="email" name="_replyto" id="email" placeholder="Энд майл хаягаа бичнэ үү..." required>
 
-			<label for="message">Зурвас</label>
-			<textarea name="message" id="message" placeholder="Энд зурвасаа бичнэ үү..."></textarea>
+			<label for="message">Мессеж</label>
+			<textarea name="message" id="message" placeholder="Энд Мессеж бичнэ үү..."></textarea>
 
 			<input type="submit" value="Илгээх">
 		</form>
